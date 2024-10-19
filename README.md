@@ -9,7 +9,6 @@ Setting up a new environment for AI or data science can involve finding and inst
 - **Pandas** 🐼  
   Manage tabular data, data transformation, and cleaning.  
   Pandas is essential for any data science workflow, providing powerful tools for data manipulation and analysis.
-  
 - **NumPy** 🔢  
   Perform numerical computations and work with multidimensional arrays.
 
@@ -59,10 +58,8 @@ Setting up a new environment for AI or data science can involve finding and inst
 
 - **TensorFlow** 🌐  
   Comprehensive deep learning framework by Google.
-  
 - **Keras** ⚙️  
   High-level API for simplifying neural networks, built on TensorFlow.
-  
 - **PyTorch** 🦄  
   Dynamic computation graph framework by Facebook, popular in research.
 
@@ -113,12 +110,24 @@ Setting up a new environment for AI or data science can involve finding and inst
 
 - **NLTK** 📚  
   Basic NLP tools.
-  
 - **spaCy** 🔍  
   Industry-grade models for text processing.
 
 - **Gensim** 🧠  
   Topic modeling and distributed word representations.
+
+# 5. Natural Language Processing (NLP) 🗣️
+
+- **NLTK** 📚  
+  Basic tools for natural language processing.
+
+- **spaCy** 🔍  
+  Industry-grade models for text processing and analysis.
+
+- **Gensim** 🧠  
+  Topic modeling and distributed word representations.
+- **Hazm - Persian NLP Toolkit**  
+   [Hazm](https://github.com/roshan-research/hazm) is a python library to perform natural language processing tasks on Persian text. It offers various features for analyzing, processing, and understanding Persian text. You can use Hazm to normalize text, tokenize sentences and words, lemmatize words, assign part-of-speech tags, identify dependency relations, create word and sentence embeddings, or read popular Persian corpora.
 
 ---
 
@@ -149,7 +158,6 @@ Setting up a new environment for AI or data science can involve finding and inst
 
 - **Hyperopt** 🧠  
   Hyperparameter optimization.
-  
 - **Optuna** 🔍  
   Intelligent hyperparameter search strategies.
 
@@ -213,7 +221,6 @@ Setting up a new environment for AI or data science can involve finding and inst
 
 1. **CUDA Toolkit** 🎨
    Required for GPU-accelerated training. Get it from [NVIDIA CUDA](https://developer.nvidia.com/cuda-downloads).
-   
 2. **cuDNN** 🧠
    GPU-accelerated library for neural networks. Download from [NVIDIA cuDNN](https://developer.nvidia.com/cudnn).
 
@@ -232,7 +239,5 @@ Setting up a new environment for AI or data science can involve finding and inst
 
 - **pip** 🐍  
   Standard Python package manager. Keep it updated.
-  
 - **Anaconda** 🐍  
   Comprehensive distribution for managing environments. [Download Anaconda](https://www.anaconda.com/products/distribution).
-  
